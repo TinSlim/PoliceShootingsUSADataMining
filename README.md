@@ -2,4 +2,4 @@
 Proyecto de Minería de Datos
 Dataset obtenido de https://github.com/washingtonpost/data-police-shootings
 
-### [Presentación Hito 1](https://inguchilecl-my.sharepoint.com/:p:/g/personal/catalina_vilches_ing_uchile_cl/EW77PNhJd9hDm8eerdlWCe4B4Up-R6I-tec6uRoebQlzGw?e=LbD8hM) 
+### [Presentación Hito 1](https://docs.google.com/presentation/d/12UdPGsIlNQ7Q4HhNZtWkO6l0c0Wzz1byZHPR90Wyf4Y/edit?usp=sharing) 
